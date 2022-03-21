@@ -1,128 +1,49 @@
+###  𝐌𝐘𝐀𝐋𝐓𝐄𝐑𝐀𝐑𝐓𝐖𝐎𝐑𝐊 
+
+##
+
+˚ · .  <img src="https://img.shields.io/badge/WELCOME TO MY ALTER-blue" width=252px > ೄྀ࿐ ˊˎ-
+
+╭┈─────────────
+
+Hello 👋
+- 🌱 I’m Sisaupil 
+- 💕 My Hobbies are writing, skateboarding, and love to learn everything until i said "I'm done"
+- 🎱 I'm Looking a Tutor Who can guide me a Javascript and etc. 
+
+︶︶︶︶︶︶︶︶︶︶︶︶
+
+
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="https://telegra.ph/file/693d96cc7b9785f7dd71a.jpg">
 </p>
-<h1 align="center">
-  <b>Ultroid - UserBot</b>
-</h1>
 
-<b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
+   
+## How to fine me? 
 
-[![](https://img.shields.io/badge/Ultroid-v0.3-blue)](#)
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
-[![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![CodeFactor](https://www.codefactor.io/repository/github/teamultroid/ultroid/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ultroid/overview/main)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltroid/Ultroid/graphs/commit-activity)
-[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)   
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
-----
+  👉  <a href="https://t.me/ademaunanyabang"><img src="https://img.shields.io/badge/Telegram-blue" width=55px></a></p>
 
-# Deploy
-- [Heroku](#Deploy-to-Heroku)
-- [Local Machine](#Deploy-Locally)
+  👉  <a href="https://twitter.com/sya_a_m"><img src="https://img.shields.io/badge/Twitter-blue" width=55px></a></p> 
 
-# Documentation 
-[![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
+  👉  <a href="https://WATTPAD.COM/UPILKIMPUL"><img src="https://img.shields.io/badge/Wattpad-orange" width=55px></a></p>
 
-# Tutorial 
-- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=0wAV7pUzhDQ)
+## Stay Support ⚡
 
-- Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
----
+📢  [Other Project](https://t.me/MYALTERARTWORK) 
 
-## Deploy to Heroku
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+<!--
+**MYALTERARTWORK/MYALTERARTWORK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Deploy Locally
-- [Traditional Method](#local-deploy---traditional-method)
-- [Easy Method](#local-deploy---easy-method)
-- [Ultroid CLI](#Ultroid-CLI)
+Here are some ideas to get you started:
 
-### Local Deploy - Easy Method
-- Linux - `wget -O locals.py https://git.io/JY9UM && python3 locals.py`
-- Windows - `cd desktop ; wget https://git.io/JY9UM -o locals.py ; python locals.py`
-- Termux - `wget -O install-termux https://tiny.ultroid.tech/termux && bash install-termux`
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-### Local Deploy - Traditional Method
-- Get your [Necessary Variables](#Necessary-Variables)
-- Clone the repository:    
-`git clone https://github.com/TeamUltroid/Ultroid.git`
-- Go to the cloned folder:    
-`cd Ultroid`
-- Create a virtual env:      
-`virtualenv -p /usr/bin/python3 venv`
-`. ./venv/bin/activate`
-- Install the requirements:      
-`pip(3) install -U -r re*/st*/optional-requirements.txt`
-`pip(3) install -U -r requirements.txt`
-- Generate your `SESSION`:
-  - For Linux users:
-    `bash sessiongen`
-     or
-    `wget -O session.py https://git.io/JY9JI && python3 session.py`
-  - For Termux users:
-    `wget -O session.py https://git.io/JY9JI && python session.py`
-  - For Windows Users:
-    `cd desktop ; wget https://git.io/JY9JI -o ultroid.py ; python ultroid.py`
-- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/TeamUltroid/Ultroid/blob/main/.env.sample).
-(You can either edit and rename the file or make a new file named `.env`.)
-- Run the bot:
-  - Linux Users:
-   `bash startup`
-  - Windows Users:
-    `python(3) -m pyUltroid`
-
-### Ultroid CLI
-[Ultroid CLI](https://github.com/BLUE-DEVIL1134/UltroidCli) is a command-line interface for deploying Ultroid.   
-
-- **Installing** -    
-Run the following code on a terminal, with curl installed.   
-`ver=$(curl https://raw.githubusercontent.com/BLUE-DEVIL1134/UltroidCli/main/version.txt) && curl -L -o ultroid https://github.com/BLUE-DEVIL1134/UltroidCli/releases/download/$ver/ultroid.exe`
-OR
-Go to [UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli) and install the version release from the Github Releases. Add the executable to your system path as specified in the [Readme](https://github.com/BLUE-DEVIL1134/UltroidCli#how-to-use-ultroidcli-).   
-
-- **Documentation** -
-Take a look at the [`docs`](https://blue-devil1134.github.io/UltroidCli/) for more detailed information.
-
----
-## Necessary Variables
-- `SESSION` - SessionString for your accounts login session. Get it from [here](#Session-String)
-
-One of the following database:
-- For **Redis** (tutorial [here](./resources/extras/redistut.md))
-  - `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/).
-  - `REDIS_PASSWORD` - Redis endpoint Password, from [redislabs](http://redislabs.com/).
-- For **MONGODB**
-  - `MONGO_URI` - Get it from [mongodb](https://mongodb.com/atlas).
-- For **SQLDB**
-  - `DATABASE_URL`- Get it from [elephantsql](https://elephantsql.com).
-
-## Session String
-Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
-* Linux : `wget -O session.py https://git.io/JY9JI && python3 session.py`
-* PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
-* Termux : `wget -O session.py https://git.io/JY9JI && python session.py`
-* TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
-
----
-
-# License
-[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
-Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
-
----
-
-# Credits
-* [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
-* [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
-
-> Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
+-->
